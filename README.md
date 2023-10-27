@@ -1,15 +1,15 @@
-# <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-hi-48.png?raw=true' /> Hi there, I'am ***Erfan Akbari***
+# <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-hi-48.png?raw=true' /> &nbsp; Hi there, I'am ***Erfan Akbari***
   
 <br />
 
-##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-about-me-48.png?raw=true' /> About me
+##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-about-me-48.png?raw=true' /> &nbsp; About me
 - I live in Shiraz, Iran
 - The only love I experienced in my entire life was programming
 - I really enjoy front end programming
 
 <br />
 
-##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-library-48.png?raw=true' /> I work with...
+##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-library-48.png?raw=true' /> &nbsp; I work with...
 ![icon javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![icon html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![icon css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,13 +28,13 @@
   
 <br />
 
-##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-contact-details-48.png?raw=true' /> Contact Me
+##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-contact-details-48.png?raw=true' /> &nbsp; Contact Me
 <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-instagram-100.png?raw=true' /> [@erfanakbari_web_developer](https://instagram.com/erfanakbari_web_developer)
 <br />
 <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-telegram-100.png?raw=true' /> [@erfanakbari_frontend](https://t.me/erfanakbari_frontend)
 <br />
 <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-email-100.png?raw=true'/> akbarierfan8004@gmail.com
 <br />
-<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-phone-100.png?raw=true' /> `+989015174359`
+<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-phone-100.png?raw=true' /> +989015174359
 
 

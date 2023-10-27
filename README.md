@@ -37,4 +37,12 @@
 <br />
 <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-phone-100.png?raw=true' /> +989015174359
 
+<br />
 
+<a href=''>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Akbari&layout=donut' />
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img src='https://github-readme-stats.vercel.app/api?username=Erfan-Akbari&show_icons=truetheme=default#gh-light-mode-only/bg_color=ffffff' />
+</a>

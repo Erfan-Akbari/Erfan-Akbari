@@ -29,20 +29,24 @@
 <br />
 
 ##  <img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-contact-details-48.png?raw=true' /> &nbsp; Contact Me
-<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-instagram-100.png?raw=true' /> [@erfanakbari_web_developer](https://instagram.com/erfanakbari_web_developer)
+<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-instagram-100.png?raw=true' />
+
+ - [@erfanakbari_web_developer](https://instagram.com/erfanakbari_web_developer)
 <br />
-<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-telegram-100.png?raw=true' /> [@erfanakbari_frontend](https://t.me/erfanakbari_frontend)
+<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-telegram-100.png?raw=true' />
+
+ - [@erfanakbari_frontend](https://t.me/erfanakbari_frontend)
 <br />
-<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-email-100.png?raw=true'/> akbarierfan8004@gmail.com
+<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-email-100.png?raw=true'/>
+
+ - akbarierfan8004@gmail.com
 <br />
-<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-phone-100.png?raw=true' /> +989015174359
+<img src='https://github.com/Erfan-Akbari/Erfan-Akbari/blob/main/icons8-phone-100.png?raw=true' />
+
+ - +989015174359
 
 <br />
 
-<a href=''>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Akbari&layout=donut' />
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src='https://github-readme-stats.vercel.app/api?username=Erfan-Akbari&show_icons=truetheme=default#gh-light-mode-only/bg_color=ffffff' />
-</a>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=erfan-akbari&layout=donut' />
+<img src='https://github-readme-stats.vercel.app/api?username=erfan-akbari&show_icons=true&theme=transparent' />
+
